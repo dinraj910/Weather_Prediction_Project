@@ -35,19 +35,19 @@
 ## � Screenshots
 
 ### 🏠 Homepage - Modern Glassmorphism Interface
-![Homepage Screenshot](screenshots/Screenshot1.png)
+![Homepage Screenshot](screenshot/Screenshot1.png)
 *Beautiful hero section with animated background and modern input forms*
 
 ### 🔮 Input - Form takes weather input
-![Results Screenshot](screenshots/Screenshot2.png)
+![Results Screenshot](screenshot/Screenshot2.png)
 *Comprehensive prediction display with confidence metrics and data visualization*
 
 ### 📱 Webpage - Responsive Design
-![Mobile Screenshot](screenshots/Screenshot3.png)
+![Mobile Screenshot](screenshot/Screenshot3.png)
 *Seamless mobile experience with touch-optimized interactions*
 
 ### 🎨 Prediction Result -  prediction display
-![Animations Screenshot](screenshots/Screenshot4.gif)
+![Animations Screenshot](screenshot/Screenshot4.gif)
 *Showcase of smooth transitions, hover effects, and loading animations*
 
 ### 📊 Prediction Result -  prediction display
