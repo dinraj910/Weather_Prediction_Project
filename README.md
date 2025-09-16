@@ -47,11 +47,11 @@
 *Seamless mobile experience with touch-optimized interactions*
 
 ### 🎨 Prediction Result -  prediction display
-![Animations Screenshot](screenshot/Screenshot4.gif)
+![Animations Screenshot](screenshot/Screenshot4.png)
 *Showcase of smooth transitions, hover effects, and loading animations*
 
 ### 📊 Prediction Result -  prediction display
-![Analytics Screenshot](screenshots/Screenshot5.png)
+![Analytics Screenshot](screenshot/Screenshot5.png)
 *Detailed model performance metrics and prediction accuracy visualization*
 
 ---
